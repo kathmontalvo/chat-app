@@ -1,5 +1,5 @@
-##Chat app
+## Chat app
 
-###Build using:
+### Build using:
 - Nodejs
 - Socket
